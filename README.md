@@ -2,6 +2,6 @@
 
 Demo:
 
-[Demo](image/image.png)
+![Demo](image/image.png)
 
 Cre: The Coding Wizard.
